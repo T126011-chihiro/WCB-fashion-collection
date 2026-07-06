@@ -100,7 +100,7 @@ LAYOUT
   position: absolute;
   top: 50%;
   left: 50%;
-  translate: -50% -30%;
+  translate: -50% -50%;
   z-index: 2;
   width: 100%;
   font-size: max(12vw, 3rem);
@@ -181,7 +181,7 @@ LAYOUT
   display: flex;
   flex-direction: column-reverse;
 }
-.gallert-image{
+.gallery-image{
   width: min(100%, clac(38rem - 2rem));
   margin: auto;
   position: relative;
